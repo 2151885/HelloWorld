@@ -20,5 +20,6 @@
         android:layout_marginLeft="83dp"
         android:layout_marginStart="83dp"
         android:layout_marginTop="49dp"
-        android:id="@+id/button" />
+        android:id="@+id/button"
+        android:onClick="nextActivity" />
 </RelativeLayout>
